@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Constantly infatuated with cars, and interested in learning.
+### Currently learning web-dev 
 <!--
 **JaxChoong/JaxChoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
