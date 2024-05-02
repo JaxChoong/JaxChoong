@@ -5,9 +5,9 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaxChoong&show_icons=true&theme=neon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaxChoong&theme=neon)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JaxChoong&theme=neon&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaxChoong&theme=radical)
 
 ## Tech Stack:
 
