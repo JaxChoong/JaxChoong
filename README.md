@@ -29,6 +29,7 @@ I'm Jax, a passionate learner with a love for coding and an obsession with leavi
 
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jax-choong-791145306/])
-[![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://www.instagram.com/glxjax/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jax-choong-791145306/)
+[![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/glxjax/)
+
 
