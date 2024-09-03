@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jax, a passionate learner with a love for coding and an obsession with leaving my comfort zone. I'm currently focused on mastering web development and always eager to learn new things. 🚀
+I'm Jax, a passionate learner with a love for coding and an obsession with leaving my comfort zone.
  <h2>🔭 Currently focusing on web-dev </h2>
  <h2>🚀 Always eager to broaden my horizons</h2>
 
@@ -7,10 +7,9 @@ I'm Jax, a passionate learner with a love for coding and an obsession with leavi
 - [Student Peer Review System (SPRS)](https://github.com/JaxChoong/Student-Peer-Review-Website) - A Website where students can review their coursemates.
 - [Average MMU Commute](https://github.com/JaxChoong/AMC) - A subway surfers-esque game that simulates an average commute to MMU.
 - [Mini Messageboard](https://github.com/JaxChoong/Mini-Message-Board) - A Messageboard website made with Express and Node.
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaxChoong&show_icons=true&theme=neon&hide=issues)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaxChoong&theme=neon&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JaxChoong&theme=neon&hide_border=false)
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaxChoong&show_icons=true&theme=react&hide=issues)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaxChoong&theme=react&layout=pie)<br/>
 
 ## Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
