@@ -7,7 +7,7 @@ I'm Jax, a passionate learner with a love for coding and an obsession with leavi
 - [Student Peer Review System (SPRS)](https://github.com/JaxChoong/Student-Peer-Review-Website) - A Website where students can review their coursemates.
 - [Average MMU Commute](https://github.com/JaxChoong/AMC) - A subway surfers-esque game that simulates an average commute to MMU.
 - [Mini Messageboard](https://github.com/JaxChoong/Mini-Message-Board) - A Messageboard website made with Express and Node.
-<br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaxChoong&show_icons=true&theme=react&hide=issues)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaxChoong&theme=react&layout=pie)<br/>
 
